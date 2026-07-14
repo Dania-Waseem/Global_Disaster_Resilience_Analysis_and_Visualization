@@ -118,19 +118,8 @@ Several custom indicators were engineered, including:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your Tableau dashboard here.
+<img width="1652" height="797" alt="final_dashboard" src="https://github.com/user-attachments/assets/3ac36236-a756-47d3-8b58-bb89a66db26d" />
 
-Example:
-
-```
-images/dashboard.png
-```
-
-or
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
 
 ---
 
