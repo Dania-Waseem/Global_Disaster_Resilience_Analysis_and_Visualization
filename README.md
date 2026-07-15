@@ -137,6 +137,3 @@ A detailed report describing the methodology, preprocessing, feature engineering
 
 ---
 
-## 📜 License
-
-This project is intended for educational and research purposes.
